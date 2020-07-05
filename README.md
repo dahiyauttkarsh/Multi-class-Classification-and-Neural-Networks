@@ -1,3 +1,3 @@
 # Multi-class-Classification-and-Neural-Networks
-Implemented the backpropagation algorithm for neural
-networks and applied it to the task of hand-written digit recognition.
+Used 2 Machine learning methods(Multi class Classification and Neural Networks)
+and applied it to the task of hand-written digit recognition.
